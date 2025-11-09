@@ -1,0 +1,10 @@
+C:\Users\Nigel Paul Matunan\source\repos\REM_System\bin\Debug\REM_System.exe.config
+C:\Users\Nigel Paul Matunan\source\repos\REM_System\bin\Debug\REM_System.exe
+C:\Users\Nigel Paul Matunan\source\repos\REM_System\bin\Debug\REM_System.pdb
+C:\Users\Nigel Paul Matunan\source\repos\REM_System\obj\Debug\REM_System.csproj.AssemblyReference.cache
+C:\Users\Nigel Paul Matunan\source\repos\REM_System\obj\Debug\REM_System.Properties.Resources.resources
+C:\Users\Nigel Paul Matunan\source\repos\REM_System\obj\Debug\REM_System.csproj.GenerateResource.cache
+C:\Users\Nigel Paul Matunan\source\repos\REM_System\obj\Debug\REM_System.csproj.CoreCompileInputs.cache
+C:\Users\Nigel Paul Matunan\source\repos\REM_System\obj\Debug\REM_System.exe
+C:\Users\Nigel Paul Matunan\source\repos\REM_System\obj\Debug\REM_System.pdb
+C:\Users\Nigel Paul Matunan\source\repos\REM_System\obj\Debug\REM_System.exe.config
